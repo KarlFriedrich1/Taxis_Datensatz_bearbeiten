@@ -1,4 +1,5 @@
-#Tagesaufgabe vom 29.05.2024
+# Tagesaufgabe vom 29.05.2024
+
 Erstelle ein neues Repository in deinem Github Account
 Klone das repo auf deinen lokalen Rechner
 Erstelle in deinem lokalen Repo eine Jupyter Notebook Datei, in welcher du den taxi Datensatz aus seaborn lädst. Speichere den Datensatz auch in einer .csv Datei in deinem Projektordner. Optional: Stelle die Spalte „total“ als Boxplot dar.
